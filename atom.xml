@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://daydaya.github.io</id>
+    <id>https://bardos.life</id>
     <title>Bardos</title>
-    <updated>2021-05-12T04:08:34.800Z</updated>
+    <updated>2021-05-12T04:11:44.821Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://daydaya.github.io"/>
-    <link rel="self" href="https://daydaya.github.io/atom.xml"/>
+    <link rel="alternate" href="https://bardos.life"/>
+    <link rel="self" href="https://bardos.life/atom.xml"/>
     <subtitle>数字流民</subtitle>
-    <logo>https://daydaya.github.io/images/avatar.png</logo>
-    <icon>https://daydaya.github.io/favicon.ico</icon>
+    <logo>https://bardos.life/images/avatar.png</logo>
+    <icon>https://bardos.life/favicon.ico</icon>
     <rights>All rights reserved 2021, Bardos</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://daydaya.github.io/post/hello-gridea/</id>
-        <link href="https://daydaya.github.io/post/hello-gridea/">
+        <id>https://bardos.life/post/hello-gridea/</id>
+        <link href="https://bardos.life/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
